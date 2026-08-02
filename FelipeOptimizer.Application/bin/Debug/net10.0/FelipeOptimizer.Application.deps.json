@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FelipeOptimizer.Application/1.0.0": {
+        "dependencies": {
+          "FelipeOptimizer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FelipeOptimizer.Application.dll": {}
+        }
+      },
+      "FelipeOptimizer.Domain/1.0.0": {
+        "runtime": {
+          "FelipeOptimizer.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FelipeOptimizer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FelipeOptimizer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

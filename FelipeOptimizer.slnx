@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FelipeOptimizer.Api/FelipeOptimizer.Api.csproj" Id="c7711f11-8ab7-4784-b0ee-149c0a7da509" />
+  <Project Path="FelipeOptimizer.Application/FelipeOptimizer.Application.csproj" />
+  <Project Path="FelipeOptimizer.Domain/FelipeOptimizer.Domain.csproj" />
+  <Project Path="FelipeOptimizer.Infrastructure/FelipeOptimizer.Infrastructure.csproj" />
+</Solution>

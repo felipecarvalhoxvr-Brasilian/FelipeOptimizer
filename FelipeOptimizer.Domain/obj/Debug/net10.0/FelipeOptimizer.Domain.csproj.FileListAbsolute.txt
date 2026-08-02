@@ -1,0 +1,12 @@
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\bin\Debug\net10.0\FelipeOptimizer.Domain.deps.json
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\bin\Debug\net10.0\FelipeOptimizer.Domain.dll
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\bin\Debug\net10.0\FelipeOptimizer.Domain.pdb
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\FelipeOptimizer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\FelipeOptimizer.Domain.AssemblyInfoInputs.cache
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\FelipeOptimizer.Domain.AssemblyInfo.cs
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\FelipeOptimizer.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\FelipeOptimizer.Domain.sourcelink.json
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\FelipeOptimizer.Domain.dll
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\refint\FelipeOptimizer.Domain.dll
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\FelipeOptimizer.Domain.pdb
+C:\Projetos\FelipeOptimizer\FelipeOptimizer.Domain\obj\Debug\net10.0\ref\FelipeOptimizer.Domain.dll
